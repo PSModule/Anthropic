@@ -4,7 +4,7 @@ Anthropic is intended to be a PowerShell module for interacting with Anthropic A
 
 ## Status
 
-This repository is currently a placeholder. The module source still contains scaffold code, so there are no supported commands or usage examples to document yet.
+This repository is currently a placeholder. The module source still contains scaffold code, so there are no supported Anthropic API commands or usage examples to document yet.
 
 ## Documentation
 
